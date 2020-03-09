@@ -6,10 +6,6 @@
 	path = plugins/BUTool-IPBUS-Helpers
 	url = https://github.com/dgastler/BUTool-IPBUS-Helpers.git
 	branch = master
-[submodule "plugins/ApolloSM_plugin"]
-	path = plugins/ApolloSM_plugin
-	url = https://github.com/apollo-lhc/ApolloSM_plugin.git
-	branch = master
 [submodule "plugins/GenericIPBus_plugin"]
 	path = plugins/GenericIPBus_plugin
 	url = https://github.com/dgastler/GenericIPBus_plugin.git

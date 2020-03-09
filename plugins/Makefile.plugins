@@ -1,4 +1,2 @@
-ApolloSM_plugin: BUTool-IPBUS-Helpers  
-	 ${MAKE} ${FLAGS} -C $@ 
 GenericIPBus_plugin: BUTool-IPBUS-Helpers  
 	 ${MAKE} ${FLAGS} -C $@ 
