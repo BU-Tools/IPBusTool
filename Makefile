@@ -6,6 +6,7 @@ SYM_LINKS=$(patsubst %,BUTool/%,${PLUGINS})
 
 FLAGS = $(ifeq $(MAKEFLAGS) "","",-$(MAKEFLAGS))
 
+export CACTUS_ROOT
 
 all: local
 
