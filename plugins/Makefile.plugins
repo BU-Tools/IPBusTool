@@ -1,2 +1,5 @@
+export CACTUS_ROOT
+export UIO_UHAL_PATH
+
 GenericIPBus_plugin: BUTool-IPBUS-Helpers  
 	 ${MAKE} ${FLAGS} -C $@ 
