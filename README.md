@@ -11,8 +11,5 @@
 ### Build
 * make init
 * make local
-* cd BUTool
 * source env.sh
-* cd ..
-* source env_plugins.sh
 * BUTool.exe
